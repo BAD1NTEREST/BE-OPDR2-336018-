@@ -34,7 +34,7 @@
     <p><a href="/Instructeur/overzichtAlleVoertuigen">Alle voertuigen</a></p>
 
     <table>
-        <thead>
+        <thead>.
             <th>Voornaam</th>
             <th>Tussenvoegsel</th>
             <th>Achternaam</th>
